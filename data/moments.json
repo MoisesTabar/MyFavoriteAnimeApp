@@ -1,0 +1,19 @@
+{
+	"moments":[
+		{
+			"img":"assets/reiner-berthold-betrayal.png",
+			"title":"Traición de Reiner y Berthold",
+			"description":"Reiner le revela a Eren que hace cinco años, él y Bertolt iniciaron su ataque contra la humanidad destruyendo las murallas. Reiner le confiesa a Eren que él es el Titán Acorazado y Bertolt el Titán Colosal."
+		},
+		{
+			"img":"assets/declaration-of-war.jpg",
+			"title":"Declaración de Guerra",
+			"description":"Falco lleva a Reiner a un sotano donde se encuentra Eren Jaeger. Reiner se queda helado al ver a Eren, el Titan de Ataque estaba frente a sus ojos. Tras Eren hablar con Reiner y Willy Tybur haber declarado la guerra a Paradis, Eren se transforma en Titan acabando con la vida de Willy Tybur."
+		},
+		{
+			"img":"assets/the-rumbling.png",
+			"title":"El Retumbar de la Tierra",
+			"description":"El Retumbar de la Tierra es un evento apocalíptico que sólo puede ser activado por el poder del Titán Fundador. Este consiste en liberar a los millones de titanes colosales que forman las tres murallas de la Isla de Paradise: María, Rose y Sina; cuyas consecuencias serían catastrófricas para el mundo en general, pues una vez liberados, estos seres marcharían fuera de la isla, destruyendo todo a su paso."
+		}
+	]
+}

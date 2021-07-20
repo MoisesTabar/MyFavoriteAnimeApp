@@ -1,0 +1,44 @@
+name: series_app
+description: A new Flutter project.
+
+ublish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/snk-portrait.jpg
+      - assets/eren.jpeg
+      - assets/levi.png
+      - assets/reiner.png
+      - assets/mikasa.png
+      - assets/porco.png
+      - assets/declaration-of-war.jpg
+      - assets/reiner-berthold-betrayal.png
+      - assets/the-rumbling.png
+      - assets/isayama.jpg
+      - assets/snk-1.jpg
+      - assets/snk-2.jpg
+      - assets/snk-3.png
+      - assets/snk-4.jpg
+      - data/seasons.json
+      - data/moments.json
+      - data/routes.json
+      - data/characters.json

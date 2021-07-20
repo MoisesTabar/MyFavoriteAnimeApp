@@ -1,0 +1,20 @@
+{
+	"routes":[
+		{
+			"route":"characters",
+			"option":"Personajes"
+		},
+		{
+			"route":"moments",
+			"option":"Momentos"
+		},
+		{
+			"route":"about",
+			"option":"Acerca"
+		},
+		{
+			"route":"life",
+			"option":"Mi vida"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"seasons":[
+		{
+			"title":"Shingeki no Kyojin Season 1",
+			"img":"assets/snk-1.jpg"
+		},
+		{
+			"title":"Shingeki no Kyojin Season 2",
+			"img":"assets/snk-2.jpg"
+		},
+		{
+			"title":"Shingeki no Kyojin Season 3",
+			"img":"assets/snk-3.png"
+		},
+		{
+			"title":"Shingeki no Kyojin the Final Season",
+			"img":"assets/snk-4.jpg"
+		}
+	]
+}

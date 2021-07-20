@@ -1,0 +1,35 @@
+{
+	"characters":[
+		{
+			"character": "Eren Jaeger",
+			"romaji": "Eren Yēgā",
+			"description": "Eren es un adolescente que jura vengarse de enormes criaturas conocidas como Titanes que devoraron a su madre y destruyeron su ciudad en el distrito de Shiganshina en la Muralla María.",
+			"img":"assets/eren.jpeg"
+		},
+		{
+			"character": "Levi Ackerman",
+			"romaji": "Rivai Akkāman",
+			"description": "Levi es el capitán del escuadrón de operaciones especiales del Cuerpo de Exploración, y es conocido como el soldado más fuerte de la humanidad.",
+			"img":"assets/levi.png"
+		},
+		{
+			"character": "Reiner Braun",
+			"romaji": "Rainā Buraun",
+			"description": "Fue el vice-comandante de la unidad de los Guerreros y el protagonista principal de la serie desde la perspectiva marleyana, nació y creció en la zona de internamiento de Liberio como hijo ilegitimo de una mujer eldiana y un padre marleyano. Eventualmente, entró a la unidad de cadetes Eldianos y a la edad de 10 años fue seleccionado para heredar el poder del Titán Acorazado.",
+			"img":"assets/reiner.png"
+		},
+		{
+			"character": "Mikasa Ackerman",
+			"romaji": "Mikasa Akkāman",
+			"description": "Es la hermana adoptiva de Eren Jaeger. Le debe mucho a él, desde que la salvó de los secuestradores que pretendían convertirla en esclava, y pasa la mayor parte de su tiempo juntos. Así pues, aunque a veces no esté de acuerdo con lo que hace, pero lo protege de cualquiera que trate de hacerle daño.",
+			"img":"assets/mikasa.png"
+		},
+		{
+			"character": "Porco Galliard",
+			"romaji": "Poruko Gariādo",
+			"description": "Fue un guerrero eldiano al servicio del Gobierno de Marley, el hermano de Marcel y uno de los poseedores del Titán Mandíbula. A pesar de haber pertenecido a la misma generación de guerreros que Reiner, Bertolt, Annie y su hermano, Galliard no participó en el plan para recuperar el Titán Fundador, y en su lugar, permaneció en Marley hasta que pudo heredar el poder del Titán Mandíbula",
+			"img":"assets/porco.png"
+		}
+
+	]
+}
